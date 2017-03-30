@@ -1,7 +1,9 @@
 # BugBookie
 An unimageable bug  record book
 
+# 1 boolean not Boolean
 ```java
+
 1   private class ScreenSlidePagerAdapter extends FragmentStatePagerAdapter {
 2        private List<String> imgs;
 3        private List<String> describe;
@@ -21,4 +23,15 @@ LINE 6:
 Boolean  ---------> boolean   or android studio will not tell u why some device not run this code.
             
            
+```
+
+#2  HUAWEI LESHI MEIZU PHONE LOG NOT SHOW:
+```java
+
+search & find in factory mode change log level
+
+
+
+
+
 ```
